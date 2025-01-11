@@ -1,0 +1,21 @@
+{
+  "name": "com.tom-hoyo.hud.book",
+  "version": "1.0.0",
+  "displayName": "Book HUD",
+  "description": "Book on the HUD which can turn page to get read by the user",
+  "unity": "2023.2",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "keywords": [
+    "HUD",
+    "Book"
+  ],
+  "author": {
+    "name": "Tom HOYO",
+    "email": "tom-hoyo@hotmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "gameobject"
+}
