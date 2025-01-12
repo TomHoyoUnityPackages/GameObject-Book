@@ -10,8 +10,6 @@ namespace Book
         [SerializeField] float pageTurnSpeed = 0.5f;
         [SerializeField] List<Transform> pages;
         [SerializeField] int index = -1;
-        [SerializeField] GameObject backButton;
-        [SerializeField] GameObject forwardButton;
 
         private void Start()
         {
